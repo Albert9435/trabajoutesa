@@ -1,0 +1,14 @@
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\bin\Debug\net8.0\trabajoutesa.exe
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\bin\Debug\net8.0\trabajoutesa.deps.json
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\bin\Debug\net8.0\trabajoutesa.runtimeconfig.json
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\bin\Debug\net8.0\trabajoutesa.dll
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\bin\Debug\net8.0\trabajoutesa.pdb
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.AssemblyInfoInputs.cache
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.AssemblyInfo.cs
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.dll
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\refint\trabajoutesa.dll
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.pdb
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\trabajoutesa.genruntimeconfig.cache
+C:\Users\alber\source\repos\trabajoutesa\trabajoutesa\obj\Debug\net8.0\ref\trabajoutesa.dll
