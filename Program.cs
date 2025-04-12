@@ -9,6 +9,8 @@ class Program
 
     static void MenuPrincipal()
     {
+        // en este grupo hay un venao
+
         string opcion;
 
         do
